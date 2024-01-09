@@ -35,3 +35,11 @@ Website address: https://und.edu/research/computational-research-center/index.ht
 - After filling out your account request form, you should immediately receive a confirmation email from CRC stating that your account request has been received.
 - Your account should be created within one to two weeks.
 - If you haven’t received your account after two weeks, please follow up with CRC staff and let me know.
+
+
+#### Examples
+
+Examples are contained in the subfolders. Currently we have the following sub-folders:
+- `hello_world`:
+   - This folder contains a simple C++ code to output "Hello World".
+   - It also includes the scripts to compile and run the code on Talon.
