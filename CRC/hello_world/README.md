@@ -58,5 +58,6 @@ Hello World!
 You can also open the above file using text editor, like:
 - vim
 - emacs
+
 You can search online to find tutorials on how to use these text editors in the 
 Linux terminal.
