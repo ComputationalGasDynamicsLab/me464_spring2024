@@ -44,3 +44,19 @@ where * is a numerical value, eqaul to `JOBID`, the ID of the job you just submi
   so you should be looking in a different file.
 - The `JOBID` always increases, meaning a new submitted job will have larger
  `JOBID` than a previously submitted job.
+
+To check the output of your code (the content of file `hello_world_27684.out` 
+for example), you can use the following command:
+```
+cat hello_world_27684.out
+```
+The result looks like below:
+```
+Hello World!
+```
+
+You can also open the above file using text editor, like:
+- vim
+- emacs
+You can search online to find tutorials on how to use these text editors in the 
+Linux terminal.
