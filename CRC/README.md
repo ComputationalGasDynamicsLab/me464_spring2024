@@ -31,11 +31,22 @@ Website address: https://und.edu/research/computational-research-center/index.ht
 
 #### Step 5: Submit request by hitting the “Submit Request” button.
 
-##### Note:
+#### Note:
 - After filling out your account request form, you should immediately receive a confirmation email from CRC stating that your account request has been received.
 - Your account should be created within one to two weeks.
 - If you haven’t received your account after two weeks, please follow up with CRC staff and let me know.
 
+#### Connecting to `Talon` computer
+- After getting an account, you can login to `Talon` computer using one of the following methods:
+    - `ssh` to talon by doing the following in a terminal program, where `user_name` is your NDUS user name and `password` to be typed later is your NDUS password.
+      ```
+      ssh user_name@talon.und.edu
+      ``` 
+    - Click the `Open OnDemand` button on CRC website. After that, you will be able to login to `Talon`. There are several services you can acess through `Open Ondemand` and we will talk about them later in class relevant to our class.
+- To be able to login to `Talon`, for students not on UND network, you need to setup and connect [UND GlobalProtect VPN](https://campus.und.edu/campus-services/uit/networks.html#vpn). The [installation link](https://und.teamdynamix.com/TDClient/2048/IT/KB/ArticleDet?ID=145487) is:
+  ```
+  https://und.teamdynamix.com/TDClient/2048/IT/KB/ArticleDet?ID=145487
+  ```
 
 ### Examples
 
